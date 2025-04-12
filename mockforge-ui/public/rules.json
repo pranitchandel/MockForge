@@ -5,7 +5,7 @@
       "id": {
         "type": "number",
         "minLength": 3,
-        "maxLength": 50
+        "maxLength": 5
       },
       "name": {
         "type": "string",

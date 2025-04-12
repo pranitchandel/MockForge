@@ -1,5 +1,5 @@
 {
-  "name": "mockforge",
+  "name": "mockengine",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -12,10 +12,16 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@diamondyuan/mockforge": "^0.1.0",
     "@faker-js/faker": "^9.6.0",
     "cors": "^2.8.5",
     "express": "^5.1.0",
     "faker-js": "^1.0.0",
+    "mockforge": "^0.12.0-beta.5",
     "nodemon": "^3.1.9"
-  }
+  },
+  "repository": {
+  "type": "git",
+  "url": "https://github.com/pranitchandel/MockForge.git"
+}
 }

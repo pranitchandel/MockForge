@@ -16,8 +16,8 @@ const dummyApiResponse = {
 };
 
 // Feature toggle and control flags
-const isMockForgeEnabled = false;
-const shouldForceRefresh = false;
+const isMockForgeEnabled = true;
+const shouldForceRefresh = true;
 
 echoToMockForge({
   responseData: dummyApiResponse,
